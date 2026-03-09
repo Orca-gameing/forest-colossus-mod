@@ -46,6 +46,10 @@ A powerful weapon dropped by the colossus:
 ## Commands
 
 - `/summon forestcolossus:forest_colossus` - Spawn a colossus
+- `/time set night` - Set to night to see glowing eyes
+- `/give @p forestcolossus:living_branch` - Get the Living Branch weapon
+- `/give @p forestcolossus:colossus_heart` - Get the Heart of the Colossus
+- `/give @p forestcolossus:ancient_bark` - Get Ancient Bark
 
 ## License
 
