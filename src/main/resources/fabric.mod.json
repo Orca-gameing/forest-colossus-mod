@@ -1,0 +1,23 @@
+{
+    "schemaVersion": 1,
+    "id": "forestcolossus",
+    "version": "${version}",
+    "name": "Forest Colossus",
+    "description": "Adds a giant Forest Colossus creature - a massive ape-like being made of wood, stone, and leaves!",
+    "authors": ["Orca Mods"],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/forestcolossus/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": ["com.forestcolossus.ForestColossusMod"],
+        "client": ["com.forestcolossus.client.ForestColossusClient"]
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21.1",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}
